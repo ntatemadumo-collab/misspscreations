@@ -3,3 +3,9 @@
     padding: 20px;
     margin: 20px;
 }
+
+figure img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
